@@ -7,4 +7,4 @@ Mutli-Step Form Using ReactJS Hooks
 - Run the app ( <b><i>npm start</i></b> )
 - Open app in localhost url
 
-Or Access Live Demo through https://github.com/bhanutejabt/Multi-Step-Form
+Or Access Live Demo through https://bhanutejabt.github.io/Multi-Step-Form/
